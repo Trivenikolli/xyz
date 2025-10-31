@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.1.7
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: 22wh1a05a5@bvrithyderabad.edu.in
+author_name: TriveniKolli
+contract_name: hello_world
+deployment_language: python
+preset_name: starter
+project_name: voting-dapp
+
